@@ -34,3 +34,7 @@ The script performs the following tasks:
 Compile >> Deploy ( y )
 
 done
+
+![clipboard_2025-06-28_22-42](https://github.com/user-attachments/assets/fcf32361-83eb-45fe-8bb4-7cfd3f6df4d7)
+
+
