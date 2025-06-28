@@ -1,0 +1,2 @@
+# kiichain
+kiichain testnet
