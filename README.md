@@ -26,3 +26,11 @@ The script performs the following tasks:
    ```bash
    git clone https://github.com/codewithalexsz/kiichain && cd kiichain && chmod +x deploy.sh && ./deploy.sh
    ```
+![image](https://github.com/user-attachments/assets/9d726bc8-8284-4ea6-92b0-1691793aaba5)
+
+**select Create a Javascript Project ( enter key ) >> Project root ( Enter key ) >> git ignore ( y key)**
+
+
+Compile >> Deploy ( y )
+
+done
